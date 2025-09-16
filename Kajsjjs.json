@@ -1,14 +1,12 @@
 {
-  "devices": {
-    "ffee5e1656f5514d": {
-      "user": "ian",
-      "pass": "1234",
-      "expiry": "2026-09-30"
-    },
-    "67890": {
-      "user": "otheruser",
-      "pass": "5678",
-      "expiry": "2025-10-15"
-    }
+  "ffee5e1656f5514d": {
+    "user": "ian",
+    "pass": "1234",
+    "expiry": "2026-09-30"
+  },
+  "67890": {
+    "user": "otheruser",
+    "pass": "5678",
+    "expiry": "2025-10-15"
   }
 }
