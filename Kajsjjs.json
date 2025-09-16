@@ -1,10 +1,10 @@
 {
-  "ffee5e1656f5514d": {
+  "device_id_ffee5e1656f5514d": {
     "user": "ian",
     "pass": "123456",
     "expiry": "2026-09-30"
   },
-  "67890": {
+  "device_id_67890": {
     "user": "otheruser",
     "pass": "5678",
     "expiry": "2025-10-15"
